@@ -42,7 +42,7 @@ public class SafeEnchantRepair extends JavaPlugin {
 						
 						Iterator<Enchantment> it = enchants.keySet().iterator();
 						
-					
+					//Bleeblooblas
 						
 						while(it.hasNext()) {
 							Enchantment ench = it.next();
