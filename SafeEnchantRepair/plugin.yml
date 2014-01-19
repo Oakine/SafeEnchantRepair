@@ -1,0 +1,12 @@
+name: SafeEnchantRepair
+main: com.gmail.oakinea.SafeEnchantRepair.SafeEnchantRepair
+version: 0.0
+commands:
+  repair:
+    description: Repairs item in hand.
+    usage: /repair
+    permission: SafeEnchantRepair.repair
+  ser_repair:
+    description: Alias to the /repair command.
+    usage: /ser_repair
+    permission: SafeEnchantRepair.repair
